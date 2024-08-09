@@ -1,4 +1,18 @@
-## Hi there 👋
+# 👾 Welcome to DarkCyberGroot's Cyber Lair
+
+Where code meets the dark side of the web...
+
+  ____  ____   ____   ____   _____  
+ / ___||  _ \ |  _ \ |  _ \ |_   _| 
+| |  _ | |_) || | | || | | |  | |   
+| |_| ||  _ < | |_| || |_| |  | |   
+ \____||_| \_\|____/ |____/   |_|   
+
+
+Security Researcher | Ethical Hacker | Developer
+
+
+
 
 <!--
 **DarkCyberGroot/DarkCyberGroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
