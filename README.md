@@ -2,7 +2,7 @@
 
 Where code meets the dark side of the web...
 
-![DALL·E 2024-08-09 12 02 39 - Create an image of Groot from Guardians of the Galaxy, depicted as a hacker breaking through the web  Groot should have a determined expression, weari](https://github.com/user-attachments/assets/9c9dd9ca-1352-4232-95dc-cb46c98dc53f)
+![DALL·E 2024-08-09 12 02 39 - Create an image of Groot from Guardians of the Galaxy, depicted as a hacker breaking through the web  Groot should have a determined expression, weari](https://github.com/user-attachments/assets/40ff602e-3a82-44bd-9e48-ceab2d34bfa7)
 
 
 Security Researcher | Ethical Hacker | Developer
