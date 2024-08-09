@@ -2,11 +2,7 @@
 
 Where code meets the dark side of the web...
 
-  ____  ____   ____   ____   _____  
- / ___||  _ \ |  _ \ |  _ \ |_   _| 
-| |  _ | |_) || | | || | | |  | |   
-| |_| ||  _ < | |_| || |_| |  | |   
- \____||_| \_\|____/ |____/   |_|   
+![DALL·E 2024-08-09 12 02 39 - Create an image of Groot from Guardians of the Galaxy, depicted as a hacker breaking through the web  Groot should have a determined expression, weari](https://github.com/user-attachments/assets/9c9dd9ca-1352-4232-95dc-cb46c98dc53f)
 
 
 Security Researcher | Ethical Hacker | Developer
