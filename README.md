@@ -7,12 +7,6 @@ Where code meets the dark side of the web...
 
 Security Researcher | Ethical Hacker | Developer
 
-### 🥇 Certifications
-<p align="left">
-  <img src="https://img.shields.io/badge/eJPT-green" alt="eJPT Badge" />
-  <img src="https://img.shields.io/badge/Security+-orange" alt="Security+ Badge" />
-</p>
-
 ### 📜 Courses Completed
 <p align="left">
   <img src="https://img.shields.io/badge/GPEN-blue" alt="GPEN Badge" />
@@ -26,6 +20,8 @@ Security Researcher | Ethical Hacker | Developer
   <img src="https://img.shields.io/badge/SQL-Codecademy-green" alt="SQL Badge" />
   <img src="https://img.shields.io/badge/C++-Udemy-orange" alt="C++ Badge" />
   <img src="https://img.shields.io/badge/Visual%20Basic-Pluralsight-purple" alt="Visual Basic Badge" />
+  <img src="https://img.shields.io/badge/eJPT-green" alt="eJPT Badge" />
+  <img src="https://img.shields.io/badge/Security+-orange" alt="Security+ Badge" />
 </p>
 
 ### 🕹 Capture the Flag (CTF) Competitions
